@@ -9,10 +9,10 @@ dicari bilangan terbesarnya secara otomatis
 
 2.Untuk melihat cara nya bisa lihat di github sama sebelumnya..
 
-cek disini https://github.com/kid49/latihansaya1
+c
 4.Selanjutnya kita membuat nya di nano.
 
--cukup ketik nano latihanlabpy01.py
+-cukup ketik nano latihanlabpy02.py
 
 -dan berikut cara nya :
 ** Membuat input terlebih dahulu untuk dipanggil bilangan pertama atau 
